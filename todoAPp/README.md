@@ -1,12 +1,96 @@
-# React + Vite
+# ✅ Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **simple, fast, and intuitive** Todo App built with **React** and **Vite**. Manage your daily tasks effortlessly — add, complete, and delete todos with a smooth user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ➕ **Add** new tasks  
+- ✅ **Mark** tasks as completed  
+- ❌ **Delete** tasks  
+- 📱 **Responsive** and minimal UI  
+- ⚛️ Built with modern React practices and components  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+- **Node.js** (v14 or above)
+- **npm** or **yarn**
+
+### 📦 Installation
+
+1. **Clone the repository**
+  
+   git clone https://github.com/BilalKalyar-200/ReactJS-practice.git
+
+
+2. **Navigate to the Todo App folder**
+
+   cd ReactJS-practice/todoAPp
+   
+
+4. **Install dependencies**
+
+   npm install
+
+
+5. **Start the development server**
+
+   npm run dev
+
+
+6. Open your browser and go to: [http://localhost:5173](http://localhost:5173)
+
+---
+
+## 🧠 Usage
+
+* 🖱️ Use the input field to add a new task.
+* ✅ Click on a task to toggle its completion state.
+* ❌ Click the delete icon to remove a task.
+
+---
+
+## 📁 Folder Structure
+
+```
+todoAPp/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── app.css
+├── package.json
+└── vite.config.js
+```
+
+---
+
+## 🛠️ Tech Stack
+
+* ⚛️ [React](https://react.dev/)
+* ⚡ [Vite](https://vitejs.dev/)
+* 🎨 CSS Modules or plain CSS
+
+---
+
+## 📌 Customization Ideas
+
+* ✏️ Edit todos
+* 🔍 Filter by completed/pending
+* ☁️ Connect to a backend or localStorage
+* 📅 Add due dates or reminders
+
+---
+
+## 📄 License
+
+This project is licensed under the **[MIT License](LICENSE)**.
+
+Let me know if you want one for the calculator too (in the same style).
+```
