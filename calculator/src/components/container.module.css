@@ -1,0 +1,13 @@
+.containerClass {
+  border: 3px solid #0077cc;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 12px #b3e5fc, 0 0 24px #81d4fa;
+  width: 90%;
+  max-width: 450px;
+  margin: 60px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
