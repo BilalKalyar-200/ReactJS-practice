@@ -18,22 +18,20 @@ A sleek and responsive calculator built with **React** and **Vite**, supporting 
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository:**
-   ```bash
+   
    git clone https://github.com/BilalKalyar-200/ReactJS-practice.git
    cd ReactJS-practice/calculator
-````
+
 
 2. **Install dependencies:**
 
-   ```bash
    npm install
-   ```
 
 3. **Start the development server:**
 
-   ```bash
+  
    npm run dev
-   ```
+
 
 ---
 
